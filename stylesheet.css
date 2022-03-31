@@ -1,0 +1,57 @@
+body{
+    background-color: #E4F5FC;
+    background-image: url("./images/fond_nuages.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: 'Catamaran','Calibri';
+}
+
+.navbar{
+    position :fixed;
+    top:0;
+    left:0;
+    right:0;
+    display: flex;
+    background-color : #323552;
+    color:white;
+}
+.logo{
+    margin-left: 3%;
+}
+
+.links{
+    text-decoration:none;
+    color: white;
+    margin-left: 15%;
+}
+
+.links:hover{
+    font-weight:bold;
+}
+
+h1{
+    color:#304F9B;
+    font-size:500%;
+    font-weight: bold;
+    margin-left:10%;
+    margin-top:25%
+}
+
+h2{
+    margin-top:1%;
+    margin-left: 10%;
+}
+
+button{
+    background-color: #D94545;
+    margin-left:10%;
+    color:#E4F5FC;
+    width:12%;
+    border:none;
+    padding:10px;
+    border-radius:5px;
+    font-weight: bold;
+}
