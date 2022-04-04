@@ -1,6 +1,6 @@
 body{
     background-color: #E4F5FC;
-    background-image: url("images/fond_nuages.png") ;
+    background-image: url("./images/fond_nuages.svg") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -9,6 +9,16 @@ body{
     font-family: 'Catamaran','Calibri';
 }
 
+ul.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
 .navbar{
     position :fixed;
     top:0;
@@ -18,15 +28,13 @@ body{
     background-color : #323552;
     color:white;
 }
-.logo{
-    margin-left: 3%;
-}
+
 
 .links{
     text-decoration:none;
     color: white;
-    margin-left: 15%;
 }
+
 
 .links:hover{
     font-weight:bold;
@@ -34,15 +42,23 @@ body{
 
 h1{
     color:#304F9B;
-    font-size:500%;
+    /*font-size:500%;*/
     font-weight: bold;
-    margin-left:10%;
-    margin-top:25%
+    margin-left:6%;
+    margin-top:18%;
 }
+
 
 h2{
     margin-top:1%;
     margin-left: 10%;
+}
+
+h3{
+    color:#304F9B;
+    font-size: 300%;
+    font-weight:bold;
+    margin:0;
 }
 
 button{
@@ -54,4 +70,24 @@ button{
     padding:10px;
     border-radius:5px;
     font-weight: bold;
+}
+
+#presentation{
+    width:70%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    margin-top: 103px;
+}
+
+.presentContent{
+    padding: 4%;
+}
+hr{
+    height: 5px;
+    background-color: #323552;
+}
+
+.centre{
+    display: flex;
+    justify-content: center;
 }
