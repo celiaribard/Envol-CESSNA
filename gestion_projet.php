@@ -39,4 +39,12 @@
             </div>
         </div>
     </div>
+    <hr>
+    <div class="presentContent">
+        <h3> Gestion de projet</h3>
+        <div>
+            <h5> Planning prévisionnel</h5>
+            <p><img class="planning" alt="Planning prévisionnel" src="images/planning_previsionnel.png"></p>
+        </div>
+    </div>
 </div>
