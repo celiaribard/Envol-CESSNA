@@ -26,9 +26,9 @@
                 <p><i>Maxime</i></p>
             </div>
         </div>
-        <br>
+    </div>
         <hr>
-        <br>
+    <div class="presentContent">
         <h3> Quelques témoignages</h3>
         <p> Voici certains témoignages reçus à la fin des tests utilisateurs.
             <i> Les questionnaires étant anonymes, nous avons inventé des noms de substitution.</i></p>
