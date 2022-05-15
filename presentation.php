@@ -7,7 +7,7 @@
         <div class="presentContent">
 
     <h3> Présentation du projet </h3> 
-    <p style="font-size: 150%;"> Le projet Envol CESSNA, réalisé dans le cadre d’une unité d’enseignements transdisciplinaires, 
+    <p style="font-size: 120%;"> Le projet Envol CESSNA, réalisé dans le cadre d’une unité d’enseignements transdisciplinaires, 
         répond à la volonté de l’Ecole Nationale Supérieure de Cognitique (ENSC) de disposer d’un simulateur 
         d’aviation civile fonctionnel. Il a déjà été manipulé par différents groupes d’étudiants il y a 
         quelques années, mais est inutilisé depuis. 
@@ -17,7 +17,7 @@
 <div class="presentContent">
 
     <h3> Présentation du simulateur </h3>
-    <p style="font-size: 150%;"> Voici un aperçu du simulateur se trouvant à la forge (bâtiment Est de l’ENSC). 
+    <p style="font-size: 120%;"> Voici un aperçu du simulateur se trouvant à la forge (bâtiment Est de l’ENSC). 
         Il est composé d’un cockpit avec un palonnier, les commandes manuelles, un écran placé dans le 
         cockpit servant à afficher le tableau de bord de l’avion durant le vol et un grand écran incurvé 
         servant à afficher la vue de l’extérieur. 
@@ -32,12 +32,22 @@
 <div class="presentContent">
 
     <h3> Nos objectifs </h3>
-   <div class="row justify-content-around">
-       <div class="">
+    <br>
+    <div class="row justify-content-around">
+       <div class=" col-4 text-center">
             <p><img class="img_pres img-fluid" alt="Logo outils" src="images/logo_pres1.png"></p>
+            <p style="font-size:100%" class="objectif text-justify">Remise en condition opérationnelle du simulateur</p>
+       </div>
+       <div class="col-4 text-center">
+            <p><img class="img_pres img-fluid" alt="Logo outils" src="images/logo_pres2.png"></p>
+            <p style="font-size:100%" class="objectif text-justify">Apprentissage du pilotage: maîtrise des commandes et des phases de vol</p>
+       </div>
+       <div class="col-4 text-center">
+            <p><img class="img_pres img-fluid" alt="Logo outils" src="images/logo_pres3.png"></p>
+            <p style="font-size:100%" class="objectif text-justify">Formation d’étudiants et du personnel volontaire de l’école</p>
        </div>
        
-   </div>
+    </div>
 </div>
     </div>
 </body>
