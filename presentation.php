@@ -32,7 +32,12 @@
 <div class="presentContent">
 
     <h3> Nos objectifs </h3>
-   
+   <div class="row justify-content-around">
+       <div class="">
+            <p><img class="img_pres img-fluid" alt="Logo outils" src="images/logo_pres1.png"></p>
+       </div>
+       
+   </div>
 </div>
     </div>
 </body>

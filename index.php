@@ -2,11 +2,11 @@
 <html>
 <?php include_once('entete.php');?>
 
-<h1><span><img src="images/logo_Envol_Cessna.png" alt="Avion" ></span> </h1>
+<div class="image_avion"><span><img src="images/logo_Envol_Cessna.png" alt="Avion" ></span> </div>
 <h2>Projet transdisciplinaire : simulateur d'avion civil</h2>
 
 
-<button>À propos de nous</button>
+<a href="gestion_projet.php"><button class="btn btn-danger bouton">À propos de nous</button></a>
 </body>
 
 </html>  

@@ -15,6 +15,7 @@
         </div>
         <a href="presentation.php" class="pres links">Présentation</a>
         <a href="#" class="gestion links">Gestion de projet</a>
+        <a href="#" class="experiencesUtilisateurs links">Expériences utilisateurs</a>
         <a href="#" class="livrables links">Livrables</a>
         <a href="#" class="PlanVert links">Plan Vert</a>
 
