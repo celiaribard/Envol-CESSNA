@@ -94,7 +94,28 @@ hr{
     height:40%;
 }
 
+.img_sujets{
+    width:70%;
+}
 .objectif{
     padding-left:20%;
     padding-right: 20%;
+}
+
+.photos_membres {
+    width: 45%;
+    border-radius: 100%;
+}
+.photos_membres2 {
+    width: 60%;
+    border-radius: 100%;
+}
+
+.ligne_membres{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.ligne_membres2 {
+    padding-left: 15%;
+    padding-right: 15%;
 }
