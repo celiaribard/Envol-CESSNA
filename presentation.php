@@ -2,7 +2,9 @@
 <html>
 <?php include_once('entete.php');?>
 
-    
+    <div class="text-center titre">
+        <h1> Présentation</h1>
+    </div>
     <div id="presentation">
         <div class="presentContent">
 
@@ -39,7 +41,7 @@
             <p style="font-size:100%" class="objectif text-justify">Remise en condition opérationnelle du simulateur</p>
        </div>
        <div class="col-4 text-center">
-            <p><img class="img_pres img-fluid" alt="Logo outils" src="images/logo_pres2.png"></p>
+            <p><img class="img_pres img-fluid text-justify" alt="Logo outils" src="images/logo_pres2.png"></p>
             <p style="font-size:100%" class="objectif text-justify">Apprentissage du pilotage: maîtrise des commandes et des phases de vol</p>
        </div>
        <div class="col-4 text-center">

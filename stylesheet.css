@@ -42,12 +42,9 @@ body{
     font-weight:bold;
 }
 
-h1{
+.titre{
     color:#304F9B;
-    /*font-size:500%;*/
-    font-weight: bold;
-    margin-left:6%;
-    margin-top:30%;
+    margin-top:3%;
 }
 
 
@@ -71,7 +68,7 @@ h3{
     width:70%;
     margin: 0 auto;
     background-color: aliceblue;
-    margin-top: 103px;
+    margin-top:3%;
 }
 
 .presentContent{
