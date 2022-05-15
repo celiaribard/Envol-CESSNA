@@ -12,6 +12,7 @@
             Nous avons mené des parcours différents avant d’arriver à l’ENSC et la pluridisciplinarité de 
             nos compétences est un atout pour mener à bien ce projet. 
         </p>
+        <br>
         <div class="row ligne_membres2">
             <div class="col-6 text-center">
                 <p><img class="photos_membres" alt="Romane Cote Colisson" src="images/romane1.jpg"></p>
@@ -26,7 +27,7 @@
         <div class="row ligne_membres">
             <div class="col-4 text-center">
                 <p><img class="photos_membres2" alt="Benoit Lamirault" src="images/benoit1.jpg"></p>
-                <p>Benoit Lamirault</p>
+                <p>Benoît Lamirault</p>
             </div>
             <div class="col-4 text-center">
                 <p><img class="photos_membres2" alt="Célia Ribard" src="images/celia1.jpg"></p>

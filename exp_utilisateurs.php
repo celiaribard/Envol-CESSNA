@@ -27,6 +27,8 @@
             </div>
         </div>
         <br>
+        <hr>
+        <br>
         <h3> Quelques témoignages</h3>
         <p> Voici certains témoignages reçus à la fin des tests utilisateurs.
             <i> Les questionnaires étant anonymes, nous avons inventé des noms de substitution.</i></p>
