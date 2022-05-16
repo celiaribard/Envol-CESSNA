@@ -14,7 +14,7 @@
         <br>
         <div class="row justify-content-around">
             <div class="col-4 text-center">
-                <p><img class="img_sujets img-fluid" src="images/tu_coco1.jpg" alt="Corentin en vol"></p>
+                <p><img class="img_sujets img-fluid" src="images/tu_coco2.jpg" alt="Corentin en vol"></p>
                 <p> <i>Corentin</i></p>
             </div class="col-4">
             <div class="col-4 text-center">

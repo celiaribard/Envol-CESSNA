@@ -26,7 +26,7 @@
         <br>
         <div class="row ligne_membres">
             <div class="col-4 text-center">
-                <p><img class="photos_membres2" alt="Benoit Lamirault" src="images/benoit1.jpg"></p>
+                <p><img class="photos_membres2" alt="Benoit Lamirault" src="images/benoit2.jpg"></p>
                 <p>Benoît Lamirault</p>
             </div>
             <div class="col-4 text-center">
@@ -45,6 +45,7 @@
         <div>
             <h5> Planning prévisionnel</h5>
             <p><img class="planning" alt="Planning prévisionnel" src="images/planning_previsionnel.png"></p>
+            <h5> Planning prévisionnel</h5>
         </div>
     </div>
 </div>

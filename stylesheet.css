@@ -9,24 +9,8 @@ body{
     font-family: 'Catamaran','Calibri';
 }
 
-/* ul.nav{
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-    padding: 0;
-    font-size: 20px;
-    font-weight: bold;
-} */
 .navbar{
-    /* position :fixed;
-    top:0;
-    left:0;
-    right:0;
-    display: flex; */
     background-color : #323552;
-    /* color:white; */
     padding-left:3%;
     padding-right:3%;
 } 
@@ -127,4 +111,8 @@ hr{
 
 .planning{
     width:100%;
+}
+
+.livrable{
+    text-decoration: none;
 }
