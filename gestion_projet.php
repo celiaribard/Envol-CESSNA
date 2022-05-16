@@ -15,26 +15,26 @@
         <br>
         <div class="row ligne_membres2">
             <div class="col-6 text-center">
-                <p><img class="photos_membres" alt="Romane Cote Colisson" src="images/romane1.jpg"></p>
+                <p><img class="photos_membres" alt="Romane Cote Colisson" src="images/romane2.JPG"></p>
                 <p>Romane Côte-Colisson</p>
             </div>
             <div class="col-6 text-center">
-                <p><img class="photos_membres" alt="Tristan Goncalves"src="images/tristan1.jpg"></p>
+                <p><img class="photos_membres" alt="Tristan Goncalves"src="images/tristan2.JPG"></p>
                 <p>Tristan Gonçalves</p>
             </div>
         </div>
         <br>
         <div class="row ligne_membres">
             <div class="col-4 text-center">
-                <p><img class="photos_membres2" alt="Benoit Lamirault" src="images/benoit2.jpg"></p>
+                <p><img class="photos_membres2" alt="Benoit Lamirault" src="images/benoit2.JPG"></p>
                 <p>Benoît Lamirault</p>
             </div>
             <div class="col-4 text-center">
-                <p><img class="photos_membres2" alt="Célia Ribard" src="images/celia1.jpg"></p>
+                <p><img class="photos_membres2" alt="Célia Ribard" src="images/celia2.JPG"></p>
                 <p>Célia Ribard</p>
             </div>
             <div class="col-4 text-center">
-                <p><img class="photos_membres2" alt="Emmanuelle Liard" src="images/emmanuelle1.jpg"></p>
+                <p><img class="photos_membres2" alt="Emmanuelle Liard" src="images/emmanuelle2.JPG"></p>
                 <p>Emmanuelle Liard</p>
             </div>
         </div>
@@ -45,7 +45,10 @@
         <div>
             <h5> Planning prévisionnel</h5>
             <p><img class="planning" alt="Planning prévisionnel" src="images/planning_previsionnel.png"></p>
-            <h5> Planning prévisionnel</h5>
+            <h5> Planning réel</h5>
+            <p><img class="planning" alt="Planning réel" src="images/planning_reel.png"></p>
         </div>
     </div>
 </div>
+
+</html>

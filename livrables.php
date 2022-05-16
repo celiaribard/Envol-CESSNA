@@ -13,5 +13,9 @@
                 <li><a class="livrable" href="livrables/fiche_utilisation.pdf">La fiche d'utilisation simplifiée</a>, qui permet d'avoir à portée de main les instructions et commandes principales pour piloter.</li>
                 <li><a class="livrable" href="#">La documentation détaillée</a>, qui précise toutes les commandes existantes et leur utilité.</li>
             </ul>
+            <p class="text-center"><img class="potit_chat" src="images/chat.jpg" alt="Un chat qui travaille"></p>
         </div>
-</div>
+    </div>
+
+    
+</html>
