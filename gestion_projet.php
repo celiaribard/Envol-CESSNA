@@ -6,7 +6,7 @@
 </div>
 <div id="presentation">
     <div class="presentContent">
-        <h3> L'équipe</h3>
+        <h2 style="color:blue; margin-left: 0;"> L'équipe</h2>
         <p>Notre équipe est composée de 5 étudiants en première année à l’ENSC. 
             Nous avons mené des parcours différents avant d’arriver à l’ENSC et la pluridisciplinarité de 
             nos compétences est un atout pour mener à bien ce projet. 
@@ -40,7 +40,7 @@
     </div>
     <hr>
     <div class="presentContent">
-        <h2 style="color:blue"> Gestion de projet</h2>
+        <h2 style="color:blue; margin-left: 0;"> Gestion de projet</h2>
         <div>
             <h4 class="text-center little-title"> <strong> Planning prévisionnel</strong></h4>
 

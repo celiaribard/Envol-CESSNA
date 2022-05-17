@@ -9,7 +9,7 @@
         <p> Pour <b>tester nos documentations</b>, nous avons fait passer une dizaine de <b>tests utilisateurs</b>
             afin de recueillir les avis des utilisateurs et de modifier nos documents en conséquence.
         </p>
-        <h3> Quelques photos des apprentis pilotes</h3>
+        <h2 style="color:blue; margin-left: 0;"> Quelques photos des apprentis pilotes</h2>
         <br>
         <div class="row justify-content-around">
             <div class="col-4 text-center">
@@ -28,7 +28,7 @@
     </div>
         <hr>
     <div class="presentContent">
-        <h3> Quelques témoignages</h3>
+        <h2 style="color:blue; margin-left: 0;"> Quelques témoignages</h2>
         <p> Voici certains témoignages reçus à la fin des tests utilisateurs.
             <i> Les questionnaires étant anonymes, nous avons inventé des noms de substitution.</i></p>
         <br>
