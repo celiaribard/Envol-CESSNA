@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php include_once('entete.php');?>
 
 <div class="image_avion"><span><img src="images/logo_Envol_Cessna.png" alt="Avion" ></span> </div>

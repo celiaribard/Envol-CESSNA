@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php include_once('entete.php');?>
 
 <div class="text-center titre">
@@ -41,11 +40,16 @@
     </div>
     <hr>
     <div class="presentContent">
-        <h3> Gestion de projet</h3>
+        <h2 style="color:blue"> Gestion de projet</h2>
         <div>
-            <h5> Planning prévisionnel</h5>
-            <p><img class="planning" alt="Planning prévisionnel" src="images/planning_previsionnel.png"></p>
-            <h5> Planning réel</h5>
+            <h4 class="text-center little-title"> <strong> Planning prévisionnel</strong></h4>
+
+            <hr class="subLine" style="height:3px;  ">
+
+            <p><img class="planning " alt="Planning prévisionnel" src="images/planning_previsionnel.png"></p>
+            <h4 class="text-center little-title"> <strong> Planning réel</strong></h4>
+            <hr class="subLine" style="height:3px;  ">
+
             <p><img class="planning" alt="Planning réel" src="images/planning_reel.png"></p>
         </div>
     </div>

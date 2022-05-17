@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php include_once('entete.php');?>
 
 <div class="text-center titre">
