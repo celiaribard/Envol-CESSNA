@@ -14,15 +14,15 @@
         <div class="row justify-content-around">
             <div class="col-4 text-center">
                 <img class="img_sujets img-fluid" src="images/tu_coco2.jpg" alt="Corentin en vol">
-                <p> <i>Corentin</i></p>
+                <p><i>Enzo Topilote</i></p>
             </div class="col-4">
             <div class="col-4 text-center">
                 <img class="img_sujets img_fluid" src="images/tu_celia1.jpg" alt="Célia en vol">
-                <p><i>Célia</i></p>
+                <p><i>Léa Vion</i></p>
             </div>
             <div class="col-4 text-center">
                 <img class="img_sujets img_fluid" src="images/tu_maxime1.jpg" alt="Maxime en vol">
-                <p><i>Maxime</i></p>
+                <p><i>Nicolas Érien</i></p>
             </div>
         </div>
     </div>
