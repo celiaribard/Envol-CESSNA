@@ -55,4 +55,4 @@
     </div>
 </div>
 
-</html>
+<?php include_once('footer.php');?>

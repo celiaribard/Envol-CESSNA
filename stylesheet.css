@@ -7,6 +7,7 @@ body{
 
 *{
     font-family: 'Catamaran','Calibri';
+    font-size:x-large;
 }
 
 .navbar{
@@ -18,8 +19,20 @@ body{
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(18, 61, 87, 0.2);
-    height: 12%;
+    height: 8%;
 }
+.footer{
+    padding-left:3%;
+    padding-right:3%;
+    /* From https://css.glass */
+    background: rgba(18, 61, 87, 0.75) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(18, 61, 87, 0.2);
+    height: 8%;
+}
+
 
 .little-title{
     font-size:200%;
@@ -54,6 +67,7 @@ body{
 h2{
     margin-top:1%;
     margin-left: 4.5%;
+    color:rgba(0,0,134,0.68) !important;
 }
 
 h3{

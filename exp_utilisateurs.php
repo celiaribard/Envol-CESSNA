@@ -9,26 +9,26 @@
         <p> Pour <b>tester nos documentations</b>, nous avons fait passer une dizaine de <b>tests utilisateurs</b>
             afin de recueillir les avis des utilisateurs et de modifier nos documents en conséquence.
         </p>
-        <h2 style="color:blue; margin-left: 0;"> Quelques photos des apprentis pilotes</h2>
+        <h2 style="color:rgba(0,0,134,0.68); margin-left: 0;"> Quelques photos des apprentis pilotes</h2>
         <br>
         <div class="row justify-content-around">
             <div class="col-4 text-center">
-                <p><img class="img_sujets img-fluid" src="images/tu_coco2.jpg" alt="Corentin en vol"></p>
+                <img class="img_sujets img-fluid" src="images/tu_coco2.jpg" alt="Corentin en vol">
                 <p> <i>Corentin</i></p>
             </div class="col-4">
             <div class="col-4 text-center">
-                <p><img class="img_sujets img_fluid" src="images/tu_celia1.jpg" alt="Célia en vol"></p>
+                <img class="img_sujets img_fluid" src="images/tu_celia1.jpg" alt="Célia en vol">
                 <p><i>Célia</i></p>
             </div>
             <div class="col-4 text-center">
-                <p><img class="img_sujets img_fluid" src="images/tu_maxime1.jpg" alt="Maxime en vol"></p>
+                <img class="img_sujets img_fluid" src="images/tu_maxime1.jpg" alt="Maxime en vol">
                 <p><i>Maxime</i></p>
             </div>
         </div>
     </div>
         <hr>
     <div class="presentContent">
-        <h2 style="color:blue; margin-left: 0;"> Quelques témoignages</h2>
+        <h2 style="color:rgba(0,0,134,0.68); margin-left: 0;"> Quelques témoignages</h2>
         <p> Voici certains témoignages reçus à la fin des tests utilisateurs.
             <i> Les questionnaires étant anonymes, nous avons inventé des noms de substitution.</i></p>
         <br>
@@ -57,3 +57,5 @@
 
     </div>
 </div>
+
+<?php include_once('footer.php');?>

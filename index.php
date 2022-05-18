@@ -6,6 +6,4 @@
 
 
 <a href="gestion_projet.php"><button class="btn btn-danger bouton">À propos de nous</button></a>
-</body>
-
-</html>  
+<?php include_once('footer.php');?>
