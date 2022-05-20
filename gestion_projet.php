@@ -4,7 +4,7 @@
 <div class="text-center titre">
     <h1> Gestion de projet</h1>
 </div>
-<div id="presentation">
+<div class="presentation">
     <div class="presentContent">
         <h2 style="color:blue; margin-left: 0;"> L'équipe</h2>
         <p>Notre équipe est composée de 5 étudiants en première année à l’ENSC. 

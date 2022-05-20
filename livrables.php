@@ -4,7 +4,7 @@
     <div class="text-center titre">
         <h1> Livrables </h1>
     </div>
-    <div id="presentation">
+    <div class="presentation">
         <div class="presentContent">
             <p>Voici les différents livrables que nous avons réalisé. Vous pouvez les télécharger en cliquant sur les liens en bleu.</p>
             <ul>

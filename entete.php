@@ -33,5 +33,9 @@
             Plan Vert
             <i class="fa-solid fa-plane-departure"></i>
         </a>
+        <a href="remerciements.php" class="PlanVert links linkPlane">
+            Remerciements
+            <i class="fa-solid fa-plane-departure"></i>
+        </a>
 
     </nav>

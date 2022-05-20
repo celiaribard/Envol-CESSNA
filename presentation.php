@@ -4,7 +4,7 @@
 <div class="text-center titre">
     <h1> Présentation</h1>
 </div>
-<div id="presentation">
+<div class="presentation">
     <div class="presentContent">
 
         <h2 style="color:blue; margin-left: 0;"> Présentation du projet </h2>
@@ -45,7 +45,7 @@
             </div>
             <div class="col-4 text-center">
                 <p><img class="img_pres img-fluid" alt="Logo pilote" src="images/logo_pres3.png"></p>
-                <p style="font-size:100%" class="objectif text-justify">Formation d’étudiants et du personnel volontaire de l’école</p>
+                <p style="font-size:100%" class="objectif text-justify">Initiation au pilotage des étudiants volontaires de l'école</p>
             </div>
         </div>
     </div>
