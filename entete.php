@@ -9,7 +9,7 @@
     </head>
 
 
-    <nav class="navbar fixed-top">
+    <nav class="navbar navTop fixed-top">
         <div class="logo">
             <a href="index.php"><img src="images/avion.png" alt="Avion" height="30" width="66"></a>
         </div>

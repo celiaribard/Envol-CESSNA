@@ -1,9 +1,9 @@
 <br>
 <br>
 <footer>
-    <div class="container-fluid footer position-fixed bottom-0 p-3">
+    <div class="container-fluid footer position-fixed bottom-0 p-2">
         <div class="row">
-            <div class="col text-white text-center"> <h5 class="text-white">Fait avec <i class="fa-solid fa-hand-holding-heart"></i> par l'équipe Envol Cessna.</h5></div>
+            <div class="col text-white text-center"> Fait avec <i class="fa-solid fa-hand-holding-heart"></i> par l'équipe Envol Cessna.</div>
         </div>
     </div>
 </footer>
