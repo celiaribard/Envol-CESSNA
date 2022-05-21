@@ -8,4 +8,7 @@
 <a href="gestion_projet.php"><button class="btn btn-danger bouton">À propos de nous</button></a>
 -->
 <button onclick="location.href='gestion_projet.php'" class="bn5 bouton">À propos de nous</button>
+
+
+
 <?php include_once('footer.php');?>

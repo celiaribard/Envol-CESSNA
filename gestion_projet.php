@@ -53,6 +53,8 @@
             <p><img class="planning" alt="Planning réel" src="images/planning_reel.png"></p>
         </div>
     </div>
+
+
 </div>
 
 <?php include_once('footer.php');?>

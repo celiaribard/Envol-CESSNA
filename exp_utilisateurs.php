@@ -20,10 +20,8 @@
         </p>
         Voici le protocole des tests que nous avons réalisés  : <a class="livrable" href="livrables/Protocole_TU_CESSNA.pdf">Protocole TU CESSNA</a>
         <p>
-            Les retours des volontaires nous ont permis de modifier nos documentations.
-        </p>
-        <p>
-            Voici un compte-rendu des tests utilisateurs effectués :  doc en pdf  (le mettre “en cours de conception”)
+            Les retours des volontaires nous ont permis de modifier nos documentations, notamment par la rédaction d'un             <a class="livrable" href="livrables/Compte%20rendu%20TU.pdf" target="_blank">compte rendu des tests utilisateurs</a>.
+
 
         </p>
         <p> Pour <b>tester nos documentations</b>, nous avons fait passer une dizaine de <b>tests utilisateurs</b>
@@ -72,6 +70,7 @@
                 <br>
                 <i>Nicolas Érien</i>
             </p>
+            <p><img src="images/chat_avion.png" alt="Avion" width="20%" ></p>
 
         </div>
 
