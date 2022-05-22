@@ -25,6 +25,7 @@
             <br>
         <div class="centre">
             <img src="images/simu.png" alt="Photo du simulateur">
+            <img src="images/Simu_Cessna.jpg" width="36%"alt="Photo du simulateur">
         </div>
 
         </p>
