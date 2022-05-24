@@ -10,12 +10,12 @@
             <p><img class="img_plan_vert" src="images/plan_vert.jpg" alt="avion_plan_vert"></p>
         </div>
         <div class="col-7 ">
-            <p>À l’heure actuelle, nous n’avons pas d’objectif en lien avec le développement durable ou plus largement l’écologie.
-                Néanmoins, il est envisageable, pour une reprise de projet l’année prochaine, de réfléchir à l’apprentissage d’une 
-                conduite plus écologique. Cela aurait pour but de limiter la consommation de carburant sur les trajets en pilotant
-                de manière plus réfléchie.</p>
+            <p>Durant le projet, nous avons tenté d'utiliser le maximum de matériel de récupération. En effet, avant de changer les outils disfonctionnels, nous avons essayé de les réparer. N'ayant pas réussi cela, nous avons trouvé d'autres outils de simulation, que nous avons réussi à connecter à notre simulateur. De plus, pour accrocher lesdits accessoires, nous avons créé un panneau en bois/métal, fait à partir de divers objets que nous avons pu récupérer pour les réutiliser.
+                <br>
+                Il nous semblerait intéressant, dans un futur projet, de faire un travail de recherche sur l'impact écologique des vols réels, et analyser ce qui existe dans le pilotage "vert".
+            </p>
         </div>
     </div>
 </div>
 
-<?php include_once('footer.php');?>
+<?php include('footer.php');?>

@@ -24,12 +24,21 @@
             servant à afficher la vue de l’extérieur.
             <br>
         <div class="centre">
-            <img src="images/simu.png" alt="Photo du simulateur">
+            <ul class="photos-Simu">
+                <li class="li-simu"><img src="images/simu.png" width="200">
+                    <p><br></p></li>
+                <li class="li-simu"><img src="images/Simu_Cessna.jpg" width="200"/>
+                    <p><br></p></li>
+                <li class="li-simu"><img src="images/vol_simu.jpg" width="200"/>
+                    <p><br></p></li>
+                <li class="li-simu"><img src="images/TUCorentin_Cessna.jpg" width="200"/>
+                    <p><br></p></li>
+            </ul>
         </div>
-
+        <!--  <div class="light"></div> -->
         </p>
     </div>
-    <hr>
+    <hr id="hr-photos " style="margin-top:401px">
     <div class="presentContent">
 
         <h2 style="color:blue; margin-left: 0;"> Nos objectifs </h2>
