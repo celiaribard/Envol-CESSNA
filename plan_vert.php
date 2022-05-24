@@ -7,7 +7,7 @@
 <div class="presentation">
     <div class="presentContent row align-items-center">
         <div class="col-5">
-            <p><img class="img_plan_vert" src="images/plan_vert.jpg"></p>
+            <p><img class="img_plan_vert" src="images/plan_vert.jpg" alt="avion_plan_vert"></p>
         </div>
         <div class="col-7 ">
             <p>À l’heure actuelle, nous n’avons pas d’objectif en lien avec le développement durable ou plus largement l’écologie.
