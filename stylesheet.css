@@ -11,8 +11,8 @@ body{
 
 .navTop{
 
-    padding-left:3%;
-    padding-right:3%;
+    padding-left:1%;
+    padding-right:1%;
     /* From https://css.glass */
     background: rgba(18, 61, 87, 0.75) !important;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
