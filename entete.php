@@ -21,41 +21,35 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul class="navbar-nav d-flex justify-content-between mb-2 mb-lg-0" style="width:100%">
                 <li class="nav-item me-5">
                     <a href="presentation.php" class="pres links linkPlane">
-                        Présentation
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Présentation<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
                 <li class="nav-item me-5">
                     <a href="gestion_projet.php" class="gestion links linkPlane">
-                        Gestion de projet
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Gestion de projet<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
                 <li class="nav-item me-5">
                     <a href="exp_utilisateurs.php" class="experiencesUtilisateurs links linkPlane">
-                        Expériences utilisateurs
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Expériences utilisateurs<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
                 <li class="nav-item me-5">
                     <a href="livrables.php" class="livrables links linkPlane">
-                        Livrables
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Livrables<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
                 <li class="nav-item me-5">
                     <a href="plan_vert.php" class="PlanVert links linkPlane">
-                        Plan Vert
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Plan Vert<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
                 <li class="nav-item me-5">
                     <a href="remerciements.php" class="PlanVert links linkPlane">
-                        Remerciements
-                        <i class="fa-solid fa-plane-departure"></i>
+                        Remerciements<i class="fa-solid fa-plane-departure"></i>
                     </a>
                 </li>
             </ul>
